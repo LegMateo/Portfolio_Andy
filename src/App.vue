@@ -168,7 +168,6 @@ import About from "@/components/About.vue";
 import Categories from "@/components/Categories.vue";
 import MyGallery from "@/components/MyGallery.vue";
 import Contact from "@/components/Contact.vue";
-import SimpleGallery from "./components/SimpleGallery.vue";
 export default {
   components: {
     Home,
@@ -176,7 +175,6 @@ export default {
     Categories,
     MyGallery,
     Contact,
-    SimpleGallery,
   },
 
   methods: {

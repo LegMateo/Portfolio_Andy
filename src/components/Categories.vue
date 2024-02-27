@@ -10,7 +10,7 @@
         <div class="row">
           <div
             class="col-lg-3 col-md-6 col-12 mb-4"
-            v-for="(category, index) in categories"
+            v-for="category in categories"
             :key="category.id"
             @click="
               selectedCategory =

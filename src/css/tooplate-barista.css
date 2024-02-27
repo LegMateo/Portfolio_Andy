@@ -1206,11 +1206,7 @@ strong {
   h5 {
     font-size: 20px;
   }
-  .navbar-toggler {
-    position: absolute; /* or 'absolute', depending on your layout */
-    top: 10px; /* adjust as needed */
-    right: 10px; /* adjust as needed */
-  }
+ 
   .hero-section::after {
     width: 200px;
     height: 200px;
