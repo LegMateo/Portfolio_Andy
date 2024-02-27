@@ -1,0 +1,29 @@
+{
+  "name": "andy",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "masonry-layout": "^4.2.2",
+    "photoswipe": "^5.4.3",
+    "v-viewer": "^3.0.13",
+    "viewerjs": "^1.11.6",
+    "vue": "^3.4.15",
+    "vue-cool-lightbox": "^2.7.5",
+    "vue-gallery": "^2.0.5",
+    "vue-i18n": "^9.9.1",
+    "vue-image-lightbox": "^7.2.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "axios": "^1.6.7",
+    "vite": "^5.0.11",
+    "vue3-picture-swipe": "^3.0.6"
+  }
+}
