@@ -1,7 +1,7 @@
-import "@/css/bootstrap-icons.css";
-import "@/css/bootstrap.min.css";
-import "@/css/tooplate-barista.css";
-import "@/css/vegas.min.css";
+import "@/static/css/bootstrap-icons.css";
+import "@/static//css/bootstrap.min.css";
+import "@/static//css/tooplate-barista.css";
+import "@/static//css/vegas.min.css";
 import "@/fonts/bootstrap-icons.woff";
 import "@/fonts/bootstrap-icons.woff2";
 
