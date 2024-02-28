@@ -796,7 +796,7 @@ strong {
 }
 
 .reviews-block-image-wrap {
-  background-image: url("../images/mid-section-waitress-wiping-espresso-machine-with-napkin-cafa-c.jpg");
+  background-image: url("/src/images/mid-section-waitress-wiping-espresso-machine-with-napkin-cafa-c.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -829,7 +829,7 @@ strong {
   BOOKING SECTION              
 -----------------------------------------*/
 .booking-section {
-  background-image: url("src/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg");
+  background-image: url("/src/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1206,7 +1206,7 @@ strong {
   h5 {
     font-size: 20px;
   }
- 
+
   .hero-section::after {
     width: 200px;
     height: 200px;
