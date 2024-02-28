@@ -197,7 +197,7 @@ export default {
           images: [
             [
               {
-                largeURL: require("@/images/panorama.jpeg"),
+                largeURL: "@/images/panorama.jpeg",
                 thumbnailURL: "https://imgur.com/Q8OruUX.jpeg",
                 width: 1600,
                 height: 1066,
