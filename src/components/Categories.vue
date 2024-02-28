@@ -193,7 +193,7 @@ export default {
           id: 1,
           name: "streets",
           description: "streetMessage",
-          image: "src/images/team/portrait-elegant-old-man-wearing-suit.jpg",
+          image: "./src/images/team/portrait-elegant-old-man-wearing-suit.jpg",
           images: [
             [
               {
