@@ -193,11 +193,11 @@ export default {
           id: 1,
           name: "streets",
           description: "streetMessage",
-          image: "https://imgur.com/kEmxAyv.jpeg",
+          image: "https://imgur.com/qUhgtp6.jpeg",
           images: [
             [
               {
-                largeURL: "@/images/panorama.jpeg",
+                largeURL: "https://imgur.com/5nlRJiz.jpeg",
                 thumbnailURL: "https://imgur.com/Q8OruUX.jpeg",
                 width: 1600,
                 height: 1066,
