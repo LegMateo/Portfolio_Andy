@@ -5,8 +5,8 @@ import "./static/css/vegas.min.css";
 import "./fonts/bootstrap-icons.woff";
 import "./fonts/bootstrap-icons.woff2";
 
-import { createApp } from "https://unpkg.com/vue@next/dist/vue.esm-browser.js";
-import { createI18n } from "https://unpkg.com/vue-i18n@next";
+import { createApp } from "vue";
+import { createI18n } from "vue-i18n";
 import App from "./App.vue";
 
 const messages = {
