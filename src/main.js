@@ -1,3 +1,8 @@
+import "./static/css/bootstrap-icons.css";
+import "./static/css/bootstrap.min.css";
+import "./static/css/tooplate-barista.css";
+import "./static/css/vegas.min.css";
+
 import { createApp } from "vue";
 import { createI18n } from "vue-i18n";
 import App from "./App.vue";
