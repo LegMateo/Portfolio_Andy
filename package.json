@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "jquery-sticky": "^1.0.4",
     "masonry-layout": "^4.2.2",
     "photoswipe": "^5.4.3",
     "v-viewer": "^3.0.13",

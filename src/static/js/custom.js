@@ -10,13 +10,13 @@
     $(".hero-slides").vegas({
       slides: [
         {
-          src: "https://imgur.com/5nlRJizjpeg",
+          src: "src/images/panorama.jpeg",
         },
         {
-          src: "https://imgur.com/5nlRJiz.jpeg",
+          src: "src/images/panorama.jpeg",
         },
         {
-          src: "https://imgur.com/5nlRJiz.jpeg",
+          src: "src/images/panorama.jpeg",
         },
       ],
       timer: false,
